@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# 🌍 World Trip
+
+This project was developed during the Rocketseat challenge.
+
+The idea was to create an application from scratch using Figma's Chakara UI.
+
+
+
+
+
+
+
+![App Screenshot](https://user-images.githubusercontent.com/71772559/113538101-be095f00-95b0-11eb-8e5a-2eda2c5bd456.gif)
+
+
+## ⚒ Intall WorldTrip
+
+Clone o projeto
 
 ```bash
-npm run dev
-# or
-yarn dev
+  git clone https://github.com/iMitio/WorldtTip
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Entre no diretório do projeto
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+  cd WorldTrip
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Instale as dependências
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+  npm install
+```
 
-## Learn More
+Inicie o servidor
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  npm run start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 
 
-## Deploy on Vercel
+ - [Chakra UI](https://chakra-ui.com/getting-started)
+ - [NextJs](https://nextjs.org/docs)
+ - [Swiper](https://swiperjs.com/react)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

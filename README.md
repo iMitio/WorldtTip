@@ -15,7 +15,7 @@ The idea was to create an application from scratch using Figma's Chakara UI.
 ![App Screenshot](https://user-images.githubusercontent.com/71772559/113538101-be095f00-95b0-11eb-8e5a-2eda2c5bd456.gif)
 
 
-## ⚒ Intall WorldTrip
+## ⚒ Install WorldTrip
 
 Clone o projeto
 
